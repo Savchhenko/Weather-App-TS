@@ -10,6 +10,7 @@
 - *TypeScript*
 - *creating TS modules*
 - *working with a third-party API*
+- *using different types of requests (fetch request, xhr request)*
 - *building a project using Webpack* 
 
 Initial layout:
